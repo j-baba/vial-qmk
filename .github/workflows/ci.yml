@@ -105,4 +105,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: ergoarrows-firmware
-        path: *.hex
+        path: .build/*.hex
