@@ -106,5 +106,5 @@ jobs:
     - name: Archive built firmware
       uses: actions/upload-artifact@v4
       with:
-        name: ergoarrows-firmware
+        name: salicylic_acid3_ergoarrows_vial_custom
         path: /__w/vial-qmk/vial-qmk/*.hex
