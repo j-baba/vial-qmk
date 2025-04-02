@@ -107,4 +107,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: ergoarrows-firmware
-        path: .build/*.hex
+        path: /__w/vial-qmk/vial-qmk/*.hex
